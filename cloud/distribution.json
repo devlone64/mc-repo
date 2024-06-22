@@ -5,7 +5,7 @@
             "id": "mc-forge-1.20.1",
             "name": "마인크래프트 1.20.1 (Forge)",
             "description": "마인크래프트 1.20.1 포지 클라이언트입니다.",
-            "icon": "https://client.lone64.dev/image/icon.png",
+            "icon": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/image/icon.png",
             "version": "1.0.0",
             "address": "",
             "minecraftVersion": "1.20.1",
