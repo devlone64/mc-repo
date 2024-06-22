@@ -12,17 +12,6 @@
             "mainServer": true,
             "autoconnect": false,
             "modules": [
-              {
-                  "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.20",
-                  "name": "Minecraft Forge (lowcodelanguage)",
-                  "type": "ForgeHosted",
-                  "classpath": true,
-                  "artifact": {
-                    "size": 7400,
-                    "MD5": "9445bd28cb8bbf3405bcacc54627a6da",
-                    "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.20/lowcodelanguage-1.20.1-47.2.20.jar"
-              },
-              "subModules": [
                  {
                     "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.20",
                     "name": "Minecraft Forge (lowcodelanguage)",
