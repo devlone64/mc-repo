@@ -122,7 +122,7 @@
                             }
                         },
                         {
-                            "id": "cpw.mods:securejarhandler:2.1.6",
+                            "id": "cpw.mods:securejarhandler:2.1.10",
                             "name": "Minecraft Forge (securejarhandler)",
                             "type": "Library",
                             "artifact": {
@@ -132,7 +132,7 @@
                             }
                         },
                         {
-                            "id": "org.ow2.asm:asm:9.3",
+                            "id": "org.ow2.asm:asm:9.5",
                             "name": "Minecraft Forge (asm)",
                             "type": "Library",
                             "artifact": {
@@ -142,7 +142,7 @@
                             }
                         },
                         {
-                            "id": "org.ow2.asm:asm-commons:9.3",
+                            "id": "org.ow2.asm:asm-commons:9.5",
                             "name": "Minecraft Forge (asm-commons)",
                             "type": "Library",
                             "artifact": {
@@ -152,7 +152,7 @@
                             }
                         },
                         {
-                            "id": "org.ow2.asm:asm-tree:9.3",
+                            "id": "org.ow2.asm:asm-tree:9.5",
                             "name": "Minecraft Forge (asm-tree)",
                             "type": "Library",
                             "artifact": {
@@ -162,7 +162,7 @@
                             }
                         },
                         {
-                            "id": "org.ow2.asm:asm-util:9.3",
+                            "id": "org.ow2.asm:asm-util:9.5",
                             "name": "Minecraft Forge (asm-util)",
                             "type": "Library",
                             "artifact": {
@@ -172,7 +172,7 @@
                             }
                         },
                         {
-                            "id": "org.ow2.asm:asm-analysis:9.3",
+                            "id": "org.ow2.asm:asm-analysis:9.5",
                             "name": "Minecraft Forge (asm-analysis)",
                             "type": "Library",
                             "artifact": {
@@ -202,13 +202,13 @@
                             }
                         },
                         {
-                            "id": "net.minecraftforge:eventbus:6.0.3",
+                            "id": "net.minecraftforge:eventbus:6.0.5",
                             "name": "Minecraft Forge (eventbus)",
                             "type": "Library",
                             "artifact": {
                                 "size": 52624,
                                 "MD5": "7c93693a70962a1c1893e3c058dca5cf",
-                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraftforge/eventbus/6.0.3/eventbus-6.0.3.jar"
+                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
                             }
                         },
                         {
@@ -232,7 +232,7 @@
                             }
                         },
                         {
-                            "id": "cpw.mods:modlauncher:10.0.8",
+                            "id": "cpw.mods:modlauncher:10.0.9",
                             "name": "Minecraft Forge (modlauncher)",
                             "type": "Library",
                             "artifact": {
