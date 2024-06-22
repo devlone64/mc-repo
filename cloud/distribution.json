@@ -414,7 +414,7 @@
                     ]
                 },
                 {
-                    "id": "optifine:optifine:HD_U_I6+mc1.20.1@jar",
+                    "id": "net.optifine:optifine:HD_U_I6@jar",
                     "name": "OptiFine",
                     "type": "ForgeMod",
                     "artifact": {
