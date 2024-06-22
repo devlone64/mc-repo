@@ -392,6 +392,16 @@
                             }
                         }
                     ]
+                },
+                {
+                    "id": "net.optifine:optifine:HD_U_I6+mc1.20.1@jar",
+                    "name": "Optifine",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7145205,
+                        "MD5": "7a7982ac06b89dd8c1721ea53a33b768",
+                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/OptiFine_1.20.1_HD_U_I6.jar"
+                    }
                 }
             ]
         }
