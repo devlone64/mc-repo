@@ -89,36 +89,36 @@
                             }
                         },
                         {
-                            "id": "net.minecraft:client:1.20.1-20230314.122934:srg",
+                            "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
                             "name": "Minecraft Forge (client srg)",
                             "type": "Library",
                             "classpath": false,
                             "artifact": {
                                 "size": 18578667,
                                 "MD5": "500a7127781d84a24d65f110479538f3",
-                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraft/client/1.20.1-20230314.122934/client-1.20.1-20230314.122934-srg.jar"
+                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
                             }
                         },
                         {
-                            "id": "net.minecraft:client:1.20.1-20230314.122934:slim",
+                            "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
                             "name": "Minecraft Forge (client slim)",
                             "type": "Library",
                             "classpath": false,
                             "artifact": {
                                 "size": 12410103,
                                 "MD5": "764989b8230caa18e97f90799f902650",
-                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraft/client/1.20.1-20230314.122934/client-1.20.1-20230314.122934-slim.jar"
+                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
                             }
                         },
                         {
-                            "id": "net.minecraft:client:1.20.1-20230314.122934:extra",
+                            "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
                             "name": "Minecraft Forge (client extra)",
                             "type": "Library",
                             "classpath": false,
                             "artifact": {
                                 "size": 11066539,
                                 "MD5": "e612fd0d646100ae60158ba37c5aa71a",
-                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraft/client/1.20.1-20230314.122934/client-1.20.1-20230314.122934-extra.jar"
+                                "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/libs/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
                             }
                         },
                         {
