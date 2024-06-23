@@ -426,9 +426,9 @@
             ]
         },
         {
-            "id": "mc-forge-1.20.1",
-            "name": "마인크래프트 1.20.1 (Forge)",
-            "description": "마인크래프트 1.20.1 포지 클라이언트입니다.",
+            "id": "mc-forge-1.20.1-guns",
+            "name": "마인크래프트 1.20.1 총 모드 (Forge)",
+            "description": "마인크래프트 1.20.1 포지 클라이언트(총 모드 포함)입니다.",
             "icon": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/image/icon.png",
             "version": "1.0.0",
             "address": "localhost:25565",
