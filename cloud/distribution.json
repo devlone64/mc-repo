@@ -856,6 +856,16 @@
                         "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/customfov-forge-6.2.1+1.20.1.jar",
                         "MD5": "b58e82c82bb16190c8f163bb8fc2905f"
                     }
+                },
+                {
+                    "id": "Sildur's Vibrant Shaders v1.51 Lite.zip",
+                    "name": "Sildur's Vibrant Shaders v1.51 Lite.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 142247,
+                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip",
+                        "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip"
+                    }
                 }
             ]
         }
