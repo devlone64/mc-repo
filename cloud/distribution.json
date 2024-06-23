@@ -858,33 +858,33 @@
                     }
                 },
                 {
-                    "id": "elocindev.animation_overhaul:animation_overhaul:1.3.1@jar",
-                    "name": "animation_overhaul-1.20.1",
+                    "id": "net.mcvader:seriousplayeranimations:1.1.1@jar",
+                    "name": "seriousplayeranimations-1.20.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 270915,
-                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/Animation_Overhaul-forge-1.20.x-1.3.1.jar",
-                        "MD5": "0e016f6094a766eb5b82c0586343f46f"
+                        "size": 292607,
+                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/seriousplayeranimations-1.1.1.jar",
+                        "MD5": "c43fd1946733b7f23e8d4817faf8ab04"
                     }
                 },
                 {
-                    "id": "elocindev.necronomicon:necronomicon:1.4.2@jar",
-                    "name": "necronomicon-1.20.1",
+                    "id": "dev.kosmx:playerAnim:1.0.2-rc1@jar",
+                    "name": "playerAnim-1.20.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 45990,
-                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/Necronomicon-Forge-1.4.2.jar",
-                        "MD5": "eb68ab883d5b22f20005f1a865c03652"
+                        "size": 181437,
+                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                        "MD5": "46f8554181d4d240075ea4919d01fd01"
                     }
                 },
                 {
-                    "id": "Sildur's Vibrant Shaders v1.51 Lite.zip",
-                    "name": "Sildur's Vibrant Shaders v1.51 Lite.zip",
-                    "type": "File",
+                    "id": "me.shedaniel:clothconfig:11.1.118@jar",
+                    "name": "clothconfig-1.20.1",
+                    "type": "ForgeMod",
                     "artifact": {
-                        "size": 142247,
-                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip",
-                        "path": "shaderpacks/Sildur's Vibrant Shaders v1.51 Lite.zip"
+                        "size": 1168391,
+                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/cloth-config-11.1.118-forge.jar",
+                        "MD5": "728bdaa093e07f3567640d36c55656ae"
                     }
                 }
             ]
