@@ -846,6 +846,16 @@
                         "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/tacz-1.20.1-1.0.1-hotfix-release.jar",
                         "MD5": "bec8d69399688ea90890ad17b0320fd5"
                     }
+                },
+                {
+                    "id": "com.illusivesoulworks:customfov:6.2.1@jar",
+                    "name": "customfov-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 44686,
+                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/customfov-forge-6.2.1+1.20.1.jar",
+                        "MD5": "b58e82c82bb16190c8f163bb8fc2905f"
+                    }
                 }
             ]
         }
