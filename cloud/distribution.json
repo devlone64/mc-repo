@@ -868,6 +868,16 @@
                     }
                 },
                 {
+                    "id": "elocindev.necronomicon:necronomicon:1.4.2@jar",
+                    "name": "necronomicon-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 45990,
+                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/Necronomicon-Forge-1.4.2.jar",
+                        "MD5": "eb68ab883d5b22f20005f1a865c03652"
+                    }
+                },
+                {
                     "id": "Sildur's Vibrant Shaders v1.51 Lite.zip",
                     "name": "Sildur's Vibrant Shaders v1.51 Lite.zip",
                     "type": "File",
