@@ -431,10 +431,10 @@
             "description": "마인크래프트 1.20.1 포지 클라이언트(총 모드 포함)입니다.",
             "icon": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/image/icon.png",
             "version": "1.0.0",
-            "address": "localhost:25565",
+            "address": "cloud.lone64.dev",
             "minecraftVersion": "1.20.1",
             "mainServer": false,
-            "autoconnect": false,
+            "autoconnect": true,
             "modules": [
                 {
                     "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.2.20",
