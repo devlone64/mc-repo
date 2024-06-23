@@ -846,16 +846,6 @@
                         "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/tacz-1.20.1-1.0.1-hotfix-release.jar",
                         "MD5": "bec8d69399688ea90890ad17b0320fd5"
                     }
-                },
-                {
-                    "id": "net.optifine:optifine:HD_U_I6@jar",
-                    "name": "OptiFine-1.20.1",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 7145205,
-                        "url": "https://raw.githubusercontent.com/mclone64/client-repo/main/cloud/repo/mods/1.20.1/OptiFine_1.20.1_HD_U_I6.jar",
-                        "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
-                    }
                 }
             ]
         }
