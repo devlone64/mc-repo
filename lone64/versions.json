@@ -4,7 +4,7 @@
     "version": "1.21.1-Fabric",
     "gameVersion": "1.21.1",
     "loaderVersion": "0.15.11",
-    "": [
+    "mods": [
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21.1-Fabric/iris-fabric.jar",
@@ -24,7 +24,7 @@
     "version": "1.21-Fabric",
     "gameVersion": "1.21",
     "loaderVersion": "0.15.11",
-    "": [
+    "mods": [
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21-Fabric/iris-fabric.jar",
@@ -44,7 +44,7 @@
     "version": "1.20.6-Fabric",
     "gameVersion": "1.20.6",
     "loaderVersion": "0.15.11",
-    "": [
+    "mods": [
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.6-Fabric/iris-fabric.jar",
@@ -64,7 +64,7 @@
     "version": "1.20.5-Fabric",
     "gameVersion": "1.20.5",
     "loaderVersion": "0.15.11",
-    "": [
+    "mods": [
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.5-Fabric/iris-fabric.jar",
@@ -84,7 +84,7 @@
     "version": "1.20.4-Fabric",
     "gameVersion": "1.20.4",
     "loaderVersion": "0.15.11",
-    "": [
+    "mods": [
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.4-Fabric/iris-fabric.jar",
@@ -104,7 +104,7 @@
     "version": "1.20.1-Fabric",
     "gameVersion": "1.20.1",
     "loaderVersion": "0.15.11",
-    "": [
+    "mods": [
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/iris-fabric.jar",
@@ -124,7 +124,7 @@
     "version": "1.19.4-Fabric",
     "gameVersion": "1.19.4",
     "loaderVersion": "0.15.11",
-    "": [
+    "mods": [
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.4-Fabric/iris-fabric.jar",
