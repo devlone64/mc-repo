@@ -6,6 +6,12 @@
     "loaderVersion": "0.15.11",
     "mods": [
       {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21.1-Fabric/fabric-api.jar",
+        "sha1": "c7d381d76c22ada6679ef9683da9384751db3874",
+        "size": 2291961
+      },
+      {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21.1-Fabric/iris-fabric.jar",
         "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9",
@@ -25,6 +31,12 @@
     "gameVersion": "1.21",
     "loaderVersion": "0.15.11",
     "mods": [
+      {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21-Fabric/fabric-api.jar",
+        "sha1": "43035a1c6f506285a9910bc8038d1b1b925f8dd1",
+        "size": 2285859
+      },
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21-Fabric/iris-fabric.jar",
@@ -46,6 +58,12 @@
     "loaderVersion": "0.15.11",
     "mods": [
       {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.6-Fabric/fabric-api.jar",
+        "sha1": "f8a4b3a551fc5bde9a2d3e4bcac9cb21a081c828",
+        "size": 2249380
+      },
+      {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.6-Fabric/iris-fabric.jar",
         "sha1": "4b097c3a62798634647d7b916753bced3bf606f4",
@@ -64,7 +82,13 @@
     "version": "1.20.5-Fabric",
     "gameVersion": "1.20.5",
     "loaderVersion": "0.15.11",
-    "mods": [
+    "mods": 
+      {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.5-Fabric/fabric-api.jar",
+        "sha1": "cbfa74cd136f0391e8713651a80fdc9f7358c0e0",
+        "size": 2201975
+      },
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.5-Fabric/iris-fabric.jar",
@@ -86,6 +110,12 @@
     "loaderVersion": "0.15.11",
     "mods": [
       {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.4-Fabric/fabric-api.jar",
+        "sha1": "37e7e83a2cea7b8717f798e30c5a288d840b4244",
+        "size": 2187521
+      },
+      {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.4-Fabric/iris-fabric.jar",
         "sha1": "acc785418e034a265f99fdb341fbb3b5af3859c8",
@@ -106,6 +136,12 @@
     "loaderVersion": "0.15.11",
     "mods": [
       {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/fabric-api.jar",
+        "sha1": "625ee015ee426d9b677382a7bb661383d89c0807",
+        "size": 2107289
+      },
+      {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/iris-fabric.jar",
         "sha1": "4841b993d37c0944ca6f7a02809364e561a6acc3",
@@ -125,6 +161,12 @@
     "gameVersion": "1.19.4",
     "loaderVersion": "0.15.11",
     "mods": [
+      {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.4-Fabric/fabric-api.jar",
+        "sha1": "586ac174c831da9fd35edce1e36eb14c7f878ce3",
+        "size": 2055860
+      },
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.4-Fabric/iris-fabric.jar",
