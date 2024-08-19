@@ -82,7 +82,7 @@
     "version": "1.20.5-Fabric",
     "gameVersion": "1.20.5",
     "loaderVersion": "0.15.11",
-    "mods": 
+    "mods": [
       {
         "name": "fabric-api.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.5-Fabric/fabric-api.jar",
