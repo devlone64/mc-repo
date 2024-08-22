@@ -196,8 +196,8 @@
       {
         "name": "iris-fabric.jar",
         "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.3-Fabric/iris-fabric.jar",
-        "sha1": "1108b680b26d9c4f216486c8317cf013ee49231e",
-        "size": 2384293
+        "sha1": "6662ef4598971d8174c730d23841eaa954c46ba0",
+        "size": 2833988
       },
       {
         "name": "sodium-fabric.jar",
