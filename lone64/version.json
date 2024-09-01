@@ -131,6 +131,32 @@
   },
   {
     "loaderType": "Fabric",
+    "version": "1.20.2-Fabric",
+    "gameVersion": "1.20.2",
+    "loaderVersion": "0.15.11",
+    "mods": [
+      {
+        "name": "fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/fabric-api.jar",
+        "sha1": "7647a59c2b37c673948b0a35961eabac3a5eda96",
+        "size": 2085618
+      },
+      {
+        "name": "iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/iris-fabric.jar",
+        "sha1": "4266d06e00cd36e20b06f8f1b1ac7a50ffe54693",
+        "size": 2407754
+      },
+      {
+        "name": "sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/sodium-fabric.jar",
+        "sha1": "37d1fb5be973beba13b88ae6a6f8158dc80a12ad",
+        "size": 854938
+      }
+    ]
+  },
+  {
+    "loaderType": "Fabric",
     "version": "1.20.1-Fabric",
     "gameVersion": "1.20.1",
     "loaderVersion": "0.15.11",
