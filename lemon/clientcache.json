@@ -7,19 +7,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21.1-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.21.1-Fabric/fabric-api.jar",
         "sha1": "c7d381d76c22ada6679ef9683da9384751db3874",
         "size": 2291961
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21.1-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.21.1-Fabric/iris-fabric.jar",
         "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9",
         "size": 2707610
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21.1-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.21.1-Fabric/sodium-fabric.jar",
         "sha1": "d67e66ea4bb2409997b636dae4203d33764cdcc8",
         "size": 982671
       }
@@ -33,19 +33,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.21-Fabric/fabric-api.jar",
         "sha1": "43035a1c6f506285a9910bc8038d1b1b925f8dd1",
         "size": 2285859
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.21-Fabric/iris-fabric.jar",
         "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9",
         "size": 2707610
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.21-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.21-Fabric/sodium-fabric.jar",
         "sha1": "d67e66ea4bb2409997b636dae4203d33764cdcc8",
         "size": 982671
       }
@@ -59,19 +59,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.6-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.6-Fabric/fabric-api.jar",
         "sha1": "f8a4b3a551fc5bde9a2d3e4bcac9cb21a081c828",
         "size": 2249380
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.6-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.6-Fabric/iris-fabric.jar",
         "sha1": "4b097c3a62798634647d7b916753bced3bf606f4",
         "size": 2711922
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.6-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.6-Fabric/sodium-fabric.jar",
         "sha1": "c989a844c33e04c3b7ef2f5747b4b20559b96e2f",
         "size": 990829
       }
@@ -85,19 +85,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.5-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.5-Fabric/fabric-api.jar",
         "sha1": "cbfa74cd136f0391e8713651a80fdc9f7358c0e0",
         "size": 2201975
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.5-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.5-Fabric/iris-fabric.jar",
         "sha1": "65de5d372fcaaa9d184c1606af15cb2e8213e135",
         "size": 2679411
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.5-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.5-Fabric/sodium-fabric.jar",
         "sha1": "8cb4f0b0c2802930455905e221d41b6eb7dcb55a",
         "size": 952615
       }
@@ -111,19 +111,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.4-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.4-Fabric/fabric-api.jar",
         "sha1": "37e7e83a2cea7b8717f798e30c5a288d840b4244",
         "size": 2187521
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.4-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.4-Fabric/iris-fabric.jar",
         "sha1": "acc785418e034a265f99fdb341fbb3b5af3859c8",
         "size": 2703697
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.4-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.4-Fabric/sodium-fabric.jar",
         "sha1": "4c38d7b01660a27a98406767c613b3f28b6c9dfe",
         "size": 949085
       }
@@ -137,19 +137,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.2-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.2-Fabric/fabric-api.jar",
         "sha1": "7647a59c2b37c673948b0a35961eabac3a5eda96",
         "size": 2085618
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.2-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.2-Fabric/iris-fabric.jar",
         "sha1": "4266d06e00cd36e20b06f8f1b1ac7a50ffe54693",
         "size": 2407754
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.2-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.2-Fabric/sodium-fabric.jar",
         "sha1": "37d1fb5be973beba13b88ae6a6f8158dc80a12ad",
         "size": 854938
       }
@@ -163,19 +163,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.1-Fabric/fabric-api.jar",
         "sha1": "625ee015ee426d9b677382a7bb661383d89c0807",
         "size": 2107289
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.1-Fabric/iris-fabric.jar",
         "sha1": "4841b993d37c0944ca6f7a02809364e561a6acc3",
         "size": 2701293
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.20.1-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.20.1-Fabric/sodium-fabric.jar",
         "sha1": "c4293c1483f3b39c1c6c4c69143e8bb2c6e53daf",
         "size": 968419
       }
@@ -189,19 +189,19 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.4-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.19.4-Fabric/fabric-api.jar",
         "sha1": "586ac174c831da9fd35edce1e36eb14c7f878ce3",
         "size": 2055860
       },
       {
         "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.4-Fabric/iris-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.19.4-Fabric/iris-fabric.jar",
         "sha1": "1108b680b26d9c4f216486c8317cf013ee49231e",
         "size": 2384293
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.4-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.19.4-Fabric/sodium-fabric.jar",
         "sha1": "b060680929d7a6d130fb980a9f9907461df05fa1",
         "size": 711302
       }
@@ -215,13 +215,13 @@
     "mods": [
       {
         "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.3-Fabric/fabric-api.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.19.3-Fabric/fabric-api.jar",
         "sha1": "cede93b4316b47b58c9697788de9bde5373a7beb",
         "size": 1940232
       },
       {
         "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lone64/mods/1.19.3-Fabric/sodium-fabric.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.19.3-Fabric/sodium-fabric.jar",
         "sha1": "14abd0a08804dc67ec6bc8a83d5062f806db6fc9",
         "size": 707249
       }
