@@ -1,9 +1,9 @@
 [
   {
-    "loaderType": "Fabric",
-    "version": "1.21.1-Fabric",
-    "gameVersion": "1.21.1",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.21.1-Fabric",
+    "mcVersion": "1.21.1",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -26,10 +26,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.21-Fabric",
-    "gameVersion": "1.21",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.21-Fabric",
+    "mcVersion": "1.21",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -52,10 +52,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.20.6-Fabric",
-    "gameVersion": "1.20.6",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.20.6-Fabric",
+    "mcVersion": "1.20.6",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -78,10 +78,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.20.5-Fabric",
-    "gameVersion": "1.20.5",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.20.5-Fabric",
+    "mcVersion": "1.20.5",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -104,10 +104,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.20.4-Fabric",
-    "gameVersion": "1.20.4",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.20.4-Fabric",
+    "mcVersion": "1.20.4",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -130,10 +130,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.20.2-Fabric",
-    "gameVersion": "1.20.2",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.20.2-Fabric",
+    "mcVersion": "1.20.2",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -156,10 +156,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.20.1-Fabric",
-    "gameVersion": "1.20.1",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.20.1-Fabric",
+    "mcVersion": "1.20.1",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -182,10 +182,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.19.4-Fabric",
-    "gameVersion": "1.19.4",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.19.4-Fabric",
+    "mcVersion": "1.19.4",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
@@ -208,10 +208,10 @@
     ]
   },
   {
-    "loaderType": "Fabric",
-    "version": "1.19.3-Fabric",
-    "gameVersion": "1.19.3",
-    "loaderVersion": "0.15.11",
+    "type": "Fabric",
+    "name": "1.19.3-Fabric",
+    "mcVersion": "1.19.3",
+    "modVersion": "0.15.11",
     "mods": [
       {
         "name": "fabric-api.jar",
