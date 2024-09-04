@@ -6,26 +6,7 @@
 		"client": "1.21.1",
 		"loader": "0.15.11"
 	},
-    "modules": [
-      {
-        "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/modules/1.21.1-Fabric/fabric-api.jar",
-        "sha1": "c7d381d76c22ada6679ef9683da9384751db3874",
-        "size": 2291961
-      },
-      {
-        "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/modules/1.21.1-Fabric/iris-fabric.jar",
-        "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9",
-        "size": 2707610
-      },
-      {
-        "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/modules/1.21.1-Fabric/sodium-fabric.jar",
-        "sha1": "d67e66ea4bb2409997b636dae4203d33764cdcc8",
-        "size": 982671
-      }
-    ]
+    "modules": []
   },
   {
     "type": "Fabric",
@@ -34,26 +15,7 @@
 		"client": "1.21",
 		"loader": "0.15.11"
 	},
-    "modules": [
-      {
-        "name": "fabric-api.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/modules/1.21-Fabric/fabric-api.jar",
-        "sha1": "43035a1c6f506285a9910bc8038d1b1b925f8dd1",
-        "size": 2285859
-      },
-      {
-        "name": "iris-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/modules/1.21-Fabric/iris-fabric.jar",
-        "sha1": "1b4e44a74c850d407518bc5cbe33eec9577ad9e9",
-        "size": 2707610
-      },
-      {
-        "name": "sodium-fabric.jar",
-        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/modules/1.21-Fabric/sodium-fabric.jar",
-        "sha1": "d67e66ea4bb2409997b636dae4203d33764cdcc8",
-        "size": 982671
-      }
-    ]
+    "modules": []
   },
   {
     "type": "Fabric",
