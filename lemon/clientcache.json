@@ -226,5 +226,19 @@
         "size": 707249
       }
     ]
+  },
+  {
+    "type": "Forge",
+    "name": "1.8.9-Forge",
+    "mcVersion": "1.8.9",
+    "modVersion": "11.15.1.2318",
+    "mods": [
+      {
+        "name": "labymod-forge.jar",
+        "downloadUrl": "https://github.com/devlone64/mc-repo/raw/main/lemon/mods/1.8.9-Forge/labymod-forge.jar",
+        "sha1": "5cfa010d392e1254a804c3b6f8a29e79c9844404",
+        "size": 2764688
+      }
+    ]
   }
 ]
