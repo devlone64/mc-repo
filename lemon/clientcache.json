@@ -182,6 +182,26 @@
     ]
   },
   {
+    "type": "Forge",
+    "name": "1.20.1-Forge",
+    "mcVersion": "1.20.1",
+    "modVersion": "47.3.11",
+    "mods": [
+      {
+        "name": "lradd-forge.jar",
+        "downloadUrl": "https://download1339.mediafire.com/tmc7bgts9kcg-SR6vaOLDIz5eQYX7CLQcWYkdoZ94hPr3egjMea4Kq-C8H-foFt2pU4LfRf7jCYDcOfDBQu-60HXKbQbmT-AN4XdGonxNty-RHHq2q4GN9MFflIqzTOAPrPl-QRf3CBfjtFj56CmFxPVM8Qsu0AzCUf2EiEcRew/0vshznc03m4z7aj/lradd-forge.jar",
+        "sha1": "4128ef13fbf277309aa5451fa5b3635b0d7178ab",
+        "size": 28313874
+      },
+      {
+        "name": "tacz-forge.jar",
+        "downloadUrl": "https://download2303.mediafire.com/6vwx9hboniggzSJDIpFpuETMpCMirG9tR1-EsmgllmO2_JHi9Sx5zlmmN5hkQcvhihFAPTqzctTLfdPhCRppC5FBhnrSOCwMGVOnKRTc4PCD4rbSEL59j72RyFjAxzNgjXegML9rYoic4WiQZVpLKNrcjYF58sDf4lgm1bX_lhI/34k72t9yz8o5iox/tacz-forge.jar",
+        "sha1": "660258d475747050aa4ffd5392a32ed383d6452b",
+        "size": 29012632
+      }
+    ]
+  },
+  {
     "type": "Fabric",
     "name": "1.19.4-Fabric",
     "mcVersion": "1.19.4",
